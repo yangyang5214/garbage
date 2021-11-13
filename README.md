@@ -1,1 +1,3 @@
 # garbage
+
+Record on the way of learning...
